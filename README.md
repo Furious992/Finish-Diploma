@@ -265,3 +265,8 @@ kubectl cheatsheet:
 
 Примеры workflow для Docker:  
  > https://docs.github.com/en/actions/publishing-packages/publishing-docker-images
+
+
+#### Коллега с работы Dev-Ops
+
+Давал напутствующие советы и подсказки для решения проблем с Terraform
